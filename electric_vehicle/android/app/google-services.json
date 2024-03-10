@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "630385136368",
+    "project_id": "electric-vehicle-10272",
+    "storage_bucket": "electric-vehicle-10272.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630385136368:android:79086f447b9c692dcf2835",
+        "android_client_info": {
+          "package_name": "com.example.electric_vehicle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630385136368-n1cfijiahunmn9gvasp7gomte0rvaost.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.electric_vehicle",
+            "certificate_hash": "eeb19ac2de07a11b6cb9f91e2c2ca70b6bb8a76c"
+          }
+        },
+        {
+          "client_id": "630385136368-ulft7ptsi1s3fb0i3kbjm1rju2dfuojc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMC0j8zGiw9v2mFm2wcpZXkLiS9LxoFSY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630385136368-ulft7ptsi1s3fb0i3kbjm1rju2dfuojc.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "630385136368-2vk32n78r71mnsec4nqr1gq7ivh0c5d3.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.electricVehicle.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
