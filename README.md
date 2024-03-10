@@ -1,6 +1,8 @@
 # Electric-Vehicle-Finder-and-Queue-Management
 Flutter Frontend
+
 Firebase Backend
+
 Google Map API
 
 Features of Users:
