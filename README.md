@@ -12,3 +12,7 @@ Features of Users:
 Features of Admin :
   Real time reservation view
   Manage Station detail
+
+# Collaboraters
+Umandi
+Hansani
